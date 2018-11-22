@@ -1,0 +1,57 @@
+**
+PROCEDURE CheckUpdateLodingStaffCardId
+WAIT WINDOW NOWAIT "正在更新数据... ..."
+STRSQL = "SELECT "
+STRSQL = STRSQL+"l.LodgingGuid,"
+STRSQL = STRSQL+"l.Company,"
+STRSQL = STRSQL+"l.StaffCompany,"
+STRSQL = STRSQL+"l.StaffId,"
+STRSQL = STRSQL+"l.StaffCardId,"
+STRSQL = STRSQL+"s.CardId "
+STRSQL = STRSQL+" FROM "
+STRSQL = STRSQL+" Lodging l "
+STRSQL = STRSQL+" LEFT OUTER JOIN Staff s ON l.StaffCompany=s.Company AND l.StaffId=s.StaffId"
+STRSQL = STRSQL+" WHERE l.Company=?gsCompany"
+STRSQL = STRSQL+" AND l.StaffCardId<>s.CardId"
+SQLEXE_RUN(00000000033, SYS(16), STRSQL, "ltGcStaffErr1")
+SELECT LTGCSTAFFERR1
+GOTO TOP
+IF EOF()
+USE
+RETURN
+ENDIF
+SCAN
+LSCARDID = ALLTRIM(CARDID)
+LSLODGINGGUID = ALLTRIM(LODGINGGUID)
+STRSQL = "UPDATE Lodging SET StaffCardId=?lsCardId WHERE LodgingGuid=?lsLodgingGuid"
+SQLEXE_RUN(00000000045, SYS(16), STRSQL, "")
+ENDSCAN
+USE
+STRSQL = "SELECT "
+STRSQL = STRSQL+"l.LodgingGuid,"
+STRSQL = STRSQL+"l.Company,"
+STRSQL = STRSQL+"l.StaffCompany,"
+STRSQL = STRSQL+"l.StaffId,"
+STRSQL = STRSQL+"l.Department,"
+STRSQL = STRSQL+"s.Depart "
+STRSQL = STRSQL+" FROM "
+STRSQL = STRSQL+" Lodging l "
+STRSQL = STRSQL+" LEFT OUTER JOIN Staff s ON l.StaffCompany=s.Company AND l.StaffId=s.StaffId"
+STRSQL = STRSQL+" WHERE l.Company=?gsCompany"
+STRSQL = STRSQL+" AND l.Department<>s.Depart"
+SQLEXE_RUN(00000000079, SYS(16), STRSQL, "ltGcStaffErr1")
+SELECT LTGCSTAFFERR1
+GOTO TOP
+IF EOF()
+USE
+RETURN
+ENDIF
+SCAN
+LSDEPART = ALLTRIM(DEPART)
+LSLODGINGGUID = ALLTRIM(LODGINGGUID)
+STRSQL = "UPDATE Lodging SET Department=?lsDepart WHERE LodgingGuid=?lsLodgingGuid"
+SQLEXE_RUN(00000000091, SYS(16), STRSQL, "")
+ENDSCAN
+USE
+ENDPROC
+**

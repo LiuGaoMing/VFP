@@ -1,0 +1,222 @@
+M "main.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getantenv.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "sysexit.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "checkdate.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "syspass.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getqx.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getkqqj.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "handle_err.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "openlanguage.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getlanguage.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "closelanguage.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "setantenv.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "insertafter.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getage.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "chkver.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "cmd.vcx" ".\" 
+  "cmd.vct" ".\" 
+  "chkdup.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "appesqltab.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "appesqltab_l.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getsysqx.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "savelog.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "sqlexe_run.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "relebkup.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getdatabase.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "chkdate.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "autocount.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getgzqj.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getantini.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getcount.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "setcount.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "resetsys.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "defconst.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "getrepkey.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "chkin.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "beeper.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "test1.scx" ".\" 
+  "test1.sct" ".\" 
+  "login.scx" ".\" 
+  "login.sct" ".\" 
+  "frmmain.scx" ".\" 
+  "frmmain.sct" ".\" 
+  "main.mpx" "c:\users\admini~1\appdata\local\temp\" MENUS\
+  "login.ico" "pic\" pic\
+  "exit.ico" "pic\" pic\
+  "rs1.ico" "pic\" pic\
+  "psw.ico" "pic\" pic\
+  "main.ico" "pic\" pic\
+  "syslog.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmsysmodipasswd.scx" ".\" 
+  "frmsysmodipasswd.sct" ".\" 
+  "3akq43.scx" ".\" 
+  "3akq43.sct" ".\" 
+  "3akq430.scx" ".\" 
+  "3akq430.sct" ".\" 
+  "3akq431.scx" ".\" 
+  "3akq431.sct" ".\" 
+  "3akq432.scx" ".\" 
+  "3akq432.sct" ".\" 
+  "hand.ico" "pic\" pic\
+  "copy4way.cur" "pic\" pic\
+  "pac_kq_browsedat_loc.scx" ".\" 
+  "pac_kq_browsedat_loc.sct" ".\" 
+  "pac_kq_browsedat.scx" ".\" 
+  "pac_kq_browsedat.sct" ".\" 
+  "pac_kq_browsedat_query.scx" ".\" 
+  "pac_kq_browsedat_query.sct" ".\" 
+  "3akq530.scx" ".\" 
+  "3akq530.sct" ".\" 
+  "3akq53.scx" ".\" 
+  "3akq53.sct" ".\" 
+  "3akq531.scx" ".\" 
+  "3akq531.sct" ".\" 
+  "rs2.ico" "pic\" pic\
+  "strdecrypt2.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "gc_ft_cpu.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "3akq11.scx" ".\" 
+  "3akq11.sct" ".\" 
+  "3akq63.scx" ".\" 
+  "3akq63.sct" ".\" 
+  "3akq630.scx" ".\" 
+  "3akq630.sct" ".\" 
+  "3akq631.scx" ".\" 
+  "3akq631.sct" ".\" 
+  "px_kq_kzgs.ico" "pic\" pic\
+  "3akq530_1.scx" ".\" 
+  "3akq530_1.sct" ".\" 
+  "sqlexe_run_lnk1.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "3akq11_xls_in1.scx" ".\" 
+  "3akq11_xls_in1.sct" ".\" 
+  "3akq11_xls_in2.scx" ".\" 
+  "3akq11_xls_in2.sct" ".\" 
+  "chkdup2.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "query1.ico" "pic\" pic\
+  "apps stop.ico" "pic\" pic\
+  "user.ico" "pic\" pic\
+  "bebox watcher.ico" "pic\" pic\
+  "be kernel.ico" "pic\" pic\
+  "be edit.ico" "pic\" pic\
+  "be paint.ico" "pic\" pic\
+  "rep1.ico" "pic\" pic\
+  "money2.ico" "pic\" pic\
+  "be magnify.ico" "pic\" pic\
+  "money1.ico" "pic\" pic\
+  "frmlodging1.scx" ".\" 
+  "frmlodging1.sct" ".\" 
+  "d14towiegand8.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "dec2hex.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "hex2dec.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmxiyifei1.scx" ".\" 
+  "frmxiyifei1.sct" ".\" 
+  "frmshuikabuban1.scx" ".\" 
+  "frmshuikabuban1.sct" ".\" 
+  "pageframebackcolor1.bmp" "pic\" pic\
+  "frmtuisuchuli1.scx" ".\" 
+  "frmtuisuchuli1.sct" ".\" 
+  "toolbar.vcx" ".\" 
+  "toolbar.vct" ".\" 
+  "frmlodging2.scx" ".\" 
+  "frmlodging2.sct" ".\" 
+  "savestrtotxt.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "gettxtini.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmwithdrawal1.scx" ".\" 
+  "frmwithdrawal1.sct" ".\" 
+  "frmwithdrawal2.scx" ".\" 
+  "frmwithdrawal2.sct" ".\" 
+  "frmlaundry1.scx" ".\" 
+  "frmlaundry1.sct" ".\" 
+  "frmlaundry2.scx" ".\" 
+  "frmlaundry2.sct" ".\" 
+  "writelog.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "readstrfromfile.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "savestrtofile.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmsettlemonthly1.scx" ".\" 
+  "frmsettlemonthly1.sct" ".\" 
+  "frmsettlemonthly2.scx" ".\" 
+  "frmsettlemonthly2.sct" ".\" 
+  "frmsettlemonthly3_3.scx" ".\" 
+  "frmsettlemonthly3_3.sct" ".\" 
+  "getcompanyoptionvalue.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmpunishment1.scx" ".\" 
+  "frmpunishment1.sct" ".\" 
+  "frmpunishment2.scx" ".\" 
+  "frmpunishment2.sct" ".\" 
+  "frmwatercardreissue1.scx" ".\" 
+  "frmwatercardreissue1.sct" ".\" 
+  "frmwatercardreissue2.scx" ".\" 
+  "frmwatercardreissue2.sct" ".\" 
+  "frmsettlemonthly3_1.scx" ".\" 
+  "frmsettlemonthly3_1.sct" ".\" 
+  "find.gif" "pic\" pic\
+  "frmroomleader1.scx" ".\" 
+  "frmroomleader1.sct" ".\" 
+  "frmroomleader2.scx" ".\" 
+  "frmroomleader2.sct" ".\" 
+  "frmroomleader3.scx" ".\" 
+  "frmroomleader3.sct" ".\" 
+  "frmqryroomleadersubsidy2.scx" ".\" 
+  "frmqryroomleadersubsidy2.sct" ".\" 
+  "frmqryroomleadersubsidy1.scx" ".\" 
+  "frmqryroomleadersubsidy1.sct" ".\" 
+  "frmqrystaffqry1.scx" ".\" 
+  "frmqrystaffqry1.sct" ".\" 
+  "frmremindnearlyoneyear1.scx" ".\" 
+  "frmremindnearlyoneyear1.sct" ".\" 
+  "frmremindha_veleftnotout1.scx" ".\" 
+  "frmremindha_veleftnotout1.sct" ".\" 
+  "frmqrynewcheckinstaff1.scx" ".\" 
+  "frmqrynewcheckinstaff1.sct" ".\" 
+  "frmqryeachroomstaffdetailed1.scx" ".\" 
+  "frmqryeachroomstaffdetailed1.sct" ".\" 
+  "frmqrylodgingnumberstatistics1.scx" ".\" 
+  "frmqrylodgingnumberstatistics1.sct" ".\" 
+  "frmsettlemonthly3_2.scx" ".\" 
+  "frmsettlemonthly3_2.sct" ".\" 
+  "frmlastmonthaccomamount1.scx" ".\" 
+  "frmlastmonthaccomamount1.sct" ".\" 
+  "frmlastmonthaccomamount2.scx" ".\" 
+  "frmlastmonthaccomamount2.sct" ".\" 
+  "frmroomleadersubsidy1.scx" ".\" 
+  "frmroomleadersubsidy1.sct" ".\" 
+  "frmroomleadersubsidy2.scx" ".\" 
+  "frmroomleadersubsidy2.sct" ".\" 
+  "checkupdatelodingstaffcardid.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmremindgcstafferr1.scx" ".\" 
+  "frmremindgcstafferr1.sct" ".\" 
+  "u02.gif" "pic\" pic\
+  "frmremindgcstafferr2.scx" ".\" 
+  "frmremindgcstafferr2.sct" ".\" 
+  "frmremindnearlyoneyear2.scx" ".\" 
+  "frmremindnearlyoneyear2.sct" ".\" 
+  "inserttbsettlewatercardreissuedetail.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "copyto.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmsettlemonthly3_4.scx" ".\" 
+  "frmsettlemonthly3_4.sct" ".\" 
+  "inserttbsettlewatercardreissue.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmsettlemonthly3_3_print.scx" ".\" 
+  "frmsettlemonthly3_3_print.sct" ".\" 
+  "frmsettlemonthly3_2_print.scx" ".\" 
+  "frmsettlemonthly3_2_print.sct" ".\" 
+  "inserttbsettledepositdetail.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "checkwithdrawaldepositrefund.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmsysoptionset1.scx" ".\" 
+  "frmsysoptionset1.sct" ".\" 
+  "setup.gif" "pic\" pic\
+  "setcompanyoptionvalue.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmsettlemonthly3_4_print.scx" ".\" 
+  "frmsettlemonthly3_4_print.sct" ".\" 
+  "frmsettlemonthly3_5.scx" ".\" 
+  "frmsettlemonthly3_5.sct" ".\" 
+  "frmsettlemonthly3_5_print.scx" ".\" 
+  "frmsettlemonthly3_5_print.sct" ".\" 
+  "frmwatercardchange1.scx" ".\" 
+  "frmwatercardchange1.sct" ".\" 
+  "frmwatercardchange2.scx" ".\" 
+  "frmwatercardchange2.sct" ".\" 
+  "be kernel2.bmp" "pic\" pic\
+  "frmsettlemonthly3_3_out.scx" ".\" 
+  "frmsettlemonthly3_3_out.sct" ".\" 
+  "chkymdissettled.fxp" "c:\users\admini~1\appdata\local\temp\" PROGS\
+  "frmstaffrefresh1.scx" ".\" 
+  "frmstaffrefresh1.sct" ".\" 

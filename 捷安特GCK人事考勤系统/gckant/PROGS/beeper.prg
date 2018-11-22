@@ -1,0 +1,6 @@
+**
+PROCEDURE beeper
+?? CHR(7)
+RETURN
+ENDPROC
+**
