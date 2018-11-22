@@ -1,0 +1,29 @@
+2018/11/19 07:49:54 AM,errtext:加载文件时出错 - 记录号 3。  LOGIN_MAIN <或是它的一个成员>。  方法程序 :d:\软件\vfp\vfp项目\tianfanchangshang\form\login_main.sct不是一个目标文件。程序名:  D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\MANUFACTURER_MANAGER.EXE错误行:  57
+2018/11/19 07:50:14 AM,errtext:加载文件时出错 - 记录号 3。  LOGIN_MAIN <或是它的一个成员>。  方法程序 :d:\软件\vfp\vfp项目\tianfanchangshang\form\login_main.sct不是一个目标文件。程序名:  D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\MANUFACTURER_MANAGER.EXE错误行:  57
+2018/11/19 11:00:12,errtext:找不到变量 'PUB_IMG0'。 程序名:  PROCEDURE SYS_INI.INIT D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\SYS_INI.SCT错误行:  10
+2018/11/19 11:09:27,errtext:找不到变量 'LCSUOSI'。 程序名:  PROCEDURE RENYUANXINXI.COMMAND6.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\RENYUAN_EDIT.SCT错误行:  167
+2018/11/19 11:13:59,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+2018/11/19 11:13:59,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+2018/11/19 11:13:59,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+2018/11/19 11:13:59,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24
+2018/11/19 14:03:20,errtext:找不到变量 '特种作业证'。 程序名:  PROCEDURE RENYUAN_BROWSE.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\RENYUAN_BROWSE.SCT错误行:  161
+2018/11/19 14:03:26,errtext:找不到变量 '特种作业证'。 程序名:  PROCEDURE RENYUAN_BROWSE.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\RENYUAN_BROWSE.SCT错误行:  162
+2018/11/19 14:03:26,errtext:找不到变量 '特种作业证'。 程序名:  PROCEDURE RENYUAN_BROWSE.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\RENYUAN_BROWSE.SCT错误行:  161
+2018/11/19 14:03:27,errtext:找不到变量 '特种作业证'。 程序名:  PROCEDURE RENYUAN_BROWSE.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\RENYUAN_BROWSE.SCT错误行:  162
+2018/11/19 14:03:27,errtext:找不到变量 '特种作业证'。 程序名:  PROCEDURE RENYUAN_BROWSE.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\RENYUAN_BROWSE.SCT错误行:  161
+2018/11/19 14:03:27,errtext:找不到变量 '特种作业证'。 程序名:  PROCEDURE RENYUAN_BROWSE.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\RENYUAN_BROWSE.SCT错误行:  162
+2018/11/19 07:38:22 PM,errtext:连接句柄无效。程序名:  SQLRUN.FXP错误行:  0
+2018/11/19 07:38:25 PM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  0
+2018/11/19 07:38:25 PM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  0
+2018/11/19 07:38:25 PM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  0
+2018/11/19 07:38:26 PM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  0
+2018/11/19 10:13:02 PM,errtext:文件 'c:\windows\system32\mkzcj.ini' 不存在。程序名:  D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\MANUFACTURER_MANAGER.EXE错误行:  0
+2018/11/19 10:13:10 PM,errtext:找不到别名 'MKZCJ'。程序名:  D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\MANUFACTURER_MANAGER.EXE错误行:  0
+2018/11/19 10:20:37 PM,errtext:文件 'c:\windows\system32\mkzcj.ini' 不存在。程序名:  D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\MANUFACTURER_MANAGER.EXE错误行:  0
+2018/11/19 10:20:39 PM,errtext:找不到别名 'MKZCJ'。程序名:  D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\MANUFACTURER_MANAGER.EXE错误行:  0
+2018/11/19 11:56:07 PM,errtext:无法更新临时表 MKZCJ，因为它是只读的。程序名:  PROCEDURE ZHUCEJI.COMMAND1.CLICK 错误行:  0
+2018/11/19 11:56:07 PM,未知错误，       111无法更新临时表 MKZCJ，因为它是只读的。程序名:  PROCEDURE ZHUCEJI.COMMAND1.CLICK 错误行:  0
+2018/11/19 11:56:30 PM,errtext:无法更新临时表 MKZCJ，因为它是只读的。程序名:  PROCEDURE ZHUCEJI.COMMAND1.CLICK 错误行:  0
+2018/11/19 11:56:30 PM,未知错误，       111无法更新临时表 MKZCJ，因为它是只读的。程序名:  PROCEDURE ZHUCEJI.COMMAND1.CLICK 错误行:  0
+2018/11/19 11:56:56 PM,errtext:无法更新临时表 MKZCJ，因为它是只读的。程序名:  PROCEDURE ZHUCEJI.COMMAND1.CLICK 错误行:  0
+2018/11/19 11:56:56 PM,未知错误，       111无法更新临时表 MKZCJ，因为它是只读的。程序名:  PROCEDURE ZHUCEJI.COMMAND1.CLICK 错误行:  0

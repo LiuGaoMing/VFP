@@ -1,0 +1,44 @@
+25:32 AM,errtext:找不到变量 'LCPHOTO_PATH'。 程序名:  PROCEDURE CSMANAGER01.COMMAND6.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  40
+25:41 AM,errtext:找不到变量 'STRSDQL'。 程序名:  PROCEDURE CSMANAGER01.COMMAND6.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  41
+25:44 AM,errtext:找不到变量 'PUB_DATABASE'。 程序名:  PROCEDURE HANDLE_SQL SQLRUN.FXP错误行:  122
+25:49 AM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+25:51 AM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+25:51 AM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+25:51 AM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24
+11:39 PM,errtext:找不到别名 'CHANGSHAGN_QUERY'。程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  6
+11:52 PM,errtext:找不到别名 'CHANGSHAGN_QUERY'。程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  7
+11:53 PM,errtext:找不到别名 'CHANGSHAGN_QUERY'。程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  8
+11:54 PM,errtext:找不到别名 'CHANGSHAGN_QUERY'。程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  9
+11:54 PM,errtext:找不到别名 'CHANGSHAGN_QUERY'。程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  10
+11:54 PM,errtext:找不到别名 'CHANGSHAGN_QUERY'。程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  11
+11:54 PM,errtext:找不到别名 'CHANGSHAGN_QUERY'。程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  12
+13:24 PM,errtext:找不到变量 'LCFANDA'。 程序名:  PROCEDURE CSMANAGER01.IMAGE1.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  1
+14:11 PM,errtext:找不到变量 'PUB_DATABASE'。 程序名:  PROCEDURE HANDLE_SQL SQLRUN.FXP错误行:  122
+14:14 PM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+14:15 PM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+14:15 PM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+14:15 PM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24
+27:28 PM,errtext:找不到变量 'LCFANDA'。 程序名:  PROCEDURE CSMANAGER01.IMAGE1.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  1
+32:11 PM,errtext:找不到变量 'LCUPLOAD_IMG'。 程序名:  PROCEDURE CSMANAGER01.COMMAND2.CLICK D:\软件\VFP\VFP项目\TIANFANCHANGSHANG\FORM\CHANGSHANG_EDIT.SCT错误行:  14
+42:50 PM,errtext:不能存取文件 e:\天帆\厂商进出软件\项目源码\img\ylbz.jpg。程序名:  PROCEDURE RESIZEIMAGE RESIZEIMAGE.FXP错误行:  49
+42:50 PM,未知错误，      1705不能存取文件 e:\天帆\厂商进出软件\项目源码\img\ylbz.jpg。程序名:  PROCEDURE RESIZEIMAGE RESIZEIMAGE.FXP错误行:  49
+54:33 PM,errtext:找不到变量 'PUB_DATABASE'。 程序名:  PROCEDURE HANDLE_SQL SQLRUN.FXP错误行:  122
+54:38 PM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+54:39 PM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+54:39 PM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+54:40 PM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24
+56:58 PM,errtext:找不到变量 'PUB_DATABASE'。 程序名:  PROCEDURE HANDLE_SQL SQLRUN.FXP错误行:  122
+57:04 PM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+57:06 PM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+57:06 PM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+57:06 PM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24
+06:08 PM,errtext:找不到变量 'PUB_DATABASE'。 程序名:  PROCEDURE HANDLE_SQL SQLRUN.FXP错误行:  122
+07:39 PM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+07:41 PM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+07:41 PM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+07:41 PM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24
+18:34 PM,errtext:找不到变量 'PUB_DATABASE'。 程序名:  PROCEDURE HANDLE_SQL SQLRUN.FXP错误行:  122
+18:40 PM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+18:41 PM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+18:41 PM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+18:42 PM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24

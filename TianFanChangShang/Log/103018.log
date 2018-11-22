@@ -1,0 +1,6 @@
+16:06 PM,errtext:函数参数的值、类型或数目无效。程序名:  SQLRUN.FXP错误行:  7
+16:12 PM,errtext:找不到变量 'PUB_IFREL'。 程序名:  SQLRUN.FXP错误行:  14
+16:14 PM,errtext:不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+16:14 PM,未知错误，        16不能识别的命令谓词。程序名:  SQLRUN.FXP错误行:  15
+16:14 PM,errtext:找不到变量 'PUB_IFBACKUP'。 程序名:  SQLRUN.FXP错误行:  24
+16:14 PM,errtext:嵌套错误。程序名:  SQLRUN.FXP错误行:  90
